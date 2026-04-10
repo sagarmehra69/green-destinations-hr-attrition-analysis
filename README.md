@@ -95,4 +95,5 @@ This dashboard provides actionable insights into employee attrition, helping org
 ---
 
 ## ⭐ Author
+Sagar
 Created as part of a data analytics project focused on HR insights and visualization.
